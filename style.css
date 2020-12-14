@@ -19,4 +19,6 @@ body{
     color:#fff;
 
     border: 5px red solid;
+    border-width: 3px;
+    border-style: thick;
 }
