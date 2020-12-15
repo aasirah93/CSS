@@ -27,3 +27,9 @@ body{
     border-width: 3px;
     border-style: thick;
 }
+
+.box-1 h1{
+    font-family: Tahoma;
+    font-weight:800;
+    font-style: italic;
+}
