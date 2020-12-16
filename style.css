@@ -38,3 +38,13 @@ body{
     word-spacing: 0.1em;
 
 }
+
+
+.box-2{
+    background-color:rgb(0, 39, 51);
+    color: rgb(0, 240, 0);
+
+    border: 5px white dotted;
+    border-width: 3px;
+    border-style: thick;
+}
