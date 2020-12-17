@@ -1,7 +1,3 @@
-*{
-    margin: 20px 0;
-    padding: 20px;
-}
 
 body{
     background-color:#f3f3f3;
@@ -11,7 +7,8 @@ body{
     font-size: 12px;
     font-weight: 360;
     line-height: 1.8em;
-    margin:0;
+    margin: 20px 0;
+    padding: 20px;
 }
 
 .container{
@@ -26,6 +23,8 @@ body{
     border: 5px red solid;
     border-width: 3px;
     border-style: thick;
+    margin: 20px 0;
+    padding: 20px;
 }
 
 .box-1 h1{
@@ -47,4 +46,13 @@ body{
     border: 5px white dotted;
     border-width: 3px;
     border-style: thick;
+    
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.categories{
+    margin: 20px 0;
+    padding: 20px;
+    border-radius:15px;
 }
