@@ -45,14 +45,56 @@ body{
 
     border: 5px white dotted;
     border-width: 3px;
-    border-style: thick;
     
     padding: 20px;
     margin: 20px 0;
 }
 
+a{
+    text-decoration: none;
+    color:#000;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:green;
+}
+
+a:visited{
+    color:blue;
+}
+
 .categories{
     margin: 20px 0;
-    padding: 20px;
+    padding: 10px;
+
+    border: 5px teal solid;
+    border-width: 3px;
     border-radius:15px;
+}
+
+.categories h2{
+    text-align:center;
+    font-family: Arial;
+    font-weight:800;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: uppeercase;
+    letter-spacing: 0.2em;
+    word-spacing: 0.1em;
+}
+
+.categories ul{
+    padding:0;
+    list-style: disc;
+    list-style: none;
+}
+
+.categories li{
+    padding-bottom:6px;
+    border-bottom:dotted 1px #333;
+    list-style-image: url('');    
 }
