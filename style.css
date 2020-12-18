@@ -1,6 +1,7 @@
 
 body{
     background-color:#f3f3f3;
+    background-image:url('https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png');
     color:#0000ff;
 
     font-family: Lucida Handwriting, Brush Script MT, cursive;
@@ -101,5 +102,5 @@ left top;
 background-size: 15px;
 height: 15px;
 padding-left: 20px;
-padding-top: 3px;
+padding-top: 10px;
 }
