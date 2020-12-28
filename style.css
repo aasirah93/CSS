@@ -105,13 +105,22 @@ padding-left: 20px;
 padding-top: 10px;
 }
 
-.categories li{
-    padding-bottom:6px;
-    border-bottom:dotted 1px #333;
-    background: url('https://png.pngtree.com/png-clipart/20190516/original/pngtree-check-mark-icon-png-image_3566317.jpg')  no-repeat
-left top;
-background-size: 15px;
-height: 15px;
-padding-left: 20px;
-padding-top: 10px;
+.form{
+    padding:10px;
+}
+
+.form label{
+    display:block;
+}
+
+.form-group{
+    padding:10px;
+    width:100%;
+}
+
+.button{
+    background-color:#333;
+    color:#fff;
+    padding:10px 15px;
+    border:none;
 }
