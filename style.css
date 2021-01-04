@@ -134,12 +134,12 @@ padding-top: 10px;
     box-sizing:border-box;
 }
 
-.main-block{
+#main-block{
     float:left;
     width: 70%;
 }
 
-.sidebar{
+#sidebar{
     float:right;
     width: 30%;
 }
